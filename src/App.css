@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  padding:10px 10px;
+}
+.r{
+  margin:20px 0;
+}
+.result{
+  display:flex;
+}
+
+.child{
+  margin-left:20px;
+}
+.final{
+  margin:10px 0;
+}
+.closeButton{
+  padding:0 4px;
+}
+.group{
+  display: flex;
+}
+input{
+  width:100px;
+}
